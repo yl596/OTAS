@@ -12,8 +12,7 @@ pip install opencv-python=4.7.0.72
 ```
 python video_info.py --dataset BF
 ```
-3. Obtain object masks using pre-trained object detection model. [Detectron](https://github.com/facebookresearch/Detectron)
-Save object class, box, and score for each video under /data/breakfast/object_info. 
+3. Obtain object info using pre-trained object detection model. We provide example object info file from the platform [Detectron](https://github.com/facebookresearch/Detectron) using Faster-RCNN-X101-FPN model pre-trained on the COCO train2017 dataset. The object info file should contains object class, box and score. 
 
 ### Train global perception model
 ```
