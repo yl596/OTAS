@@ -4,6 +4,8 @@ Unsupervised Boundary Detection for Object-Centric Temporal Action Segmentation
 ### Prerequisites
 conda create -n OTAS python=3.9
 pip install opencv-python=4.7.0.72
+pip install torch_geometric
+pip install torch_sparse
 
 
 ### Data preparation
