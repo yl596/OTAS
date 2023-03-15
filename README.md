@@ -14,3 +14,6 @@ python video_info.py --dataset BF
 ```
 
 ### Train global perception model
+```
+python main.py --dataset BF --feature_model tf --seq_len 3 --num_seq 2 --mode train 
+```
