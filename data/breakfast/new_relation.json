@@ -1,0 +1,569 @@
+{
+    "toothbrush": {
+        "idx": 79,
+        "related_nodes": [
+            "cup",
+            "sink",
+            "person",
+            "rack",
+            "table"
+        ]
+    },
+    "scissors": {
+        "idx": 76,
+        "related_nodes": [
+            "person",
+            "table"
+        ]
+    },
+    "vase": {
+        "idx": 75,
+        "related_nodes": [
+            "table",
+            "plant",
+            "cabinet"
+        ]
+    },
+    "clock": {
+        "idx": 74,
+        "related_nodes": [
+            "cabinet",
+            "table"
+        ]
+    },
+    "book": {
+        "idx": 73,
+        "related_nodes": [
+            "cabinet",
+            "table",
+            "person",
+            "rack",
+            "laptop"
+        ]
+    },
+    "refrigerator": {
+        "idx": 72,
+        "related_nodes": [
+            "cabinet",
+            "bottle",
+            "microwave",
+            "bowl",
+            "person"
+        ]
+    },
+    "sink": {
+        "idx": 71,
+        "related_nodes": [
+            "table",
+            "bottle",
+            "cabinet",
+            "cup",
+            "bowl",
+            "toothbrush",
+            "glass"
+        ]
+    },
+    "toaster": {
+        "idx": 70,
+        "related_nodes": [
+            "table"
+        ]
+    },
+    "oven": {
+        "idx": 69,
+        "related_nodes": [
+            "microwave",
+            "table",
+            "bowl",
+            "cabinet",
+            "pizza",
+            "rack",
+            "person"
+        ]
+    },
+    "microwave": {
+        "idx": 68,
+        "related_nodes": [
+            "table",
+            "bowl",
+            "oven",
+            "cabinet",
+            "pizza",
+            "rack",
+            "person"
+        ]
+    },
+    "cell": {
+        "idx": 67,
+        "related_nodes": [
+            "person",
+            "table"
+        ]
+    },
+    "keyboard": {
+        "idx": 66,
+        "related_nodes": [
+            "mouse",
+            "table",
+            "person",
+            "laptop"
+        ]
+    },
+    "remote": {
+        "idx": 65,
+        "related_nodes": [
+            "tv",
+            "table",
+            "person",
+            "couch"
+        ]
+    },
+    "mouse": {
+        "idx": 64,
+        "related_nodes": [
+            "keyboard",
+            "table",
+            "person",
+            "laptop"
+        ]
+    },
+    "laptop": {
+        "idx": 63,
+        "related_nodes": [
+            "table",
+            "person",
+            "keyboard",
+            "chair",
+            "mouse",
+            "couch",
+            "book"
+        ]
+    },
+    "tv": {
+        "idx": 62,
+        "related_nodes": [
+            "cabinet",
+            "person",
+            "remote",
+            "table"
+        ]
+    },
+    "table": {
+        "idx": 60,
+        "related_nodes": [
+            "cabinet",
+            "person",
+            "chair",
+            "keyboard",
+            "apple",
+            "bowl",
+            "glass",
+            "book",
+            "mouse",
+            "bottle",
+            "laptop",
+            "cup",
+            "handbag",
+            "plant",
+            "scissors",
+            "vase",
+            "hotdog",
+            "sink",
+            "couch",
+            "microwave",
+            "tv",
+            "fork",
+            "knife",
+            "cake",
+            "spoon",
+            "donut",
+            "sandwich",
+            "orange",
+            "oven",
+            "rack",
+            "remote",
+            "toaster",
+            "banana",
+            "clock",
+            "pizza",
+            "carrot",
+            "cell",
+            "toothbrush",
+            "backpack",
+            "broccoli"
+        ]
+    },
+    "plant": {
+        "idx": 58,
+        "related_nodes": [
+            "table",
+            "person",
+            "vase",
+            "bench",
+            "rack"
+        ]
+    },
+    "couch": {
+        "idx": 57,
+        "related_nodes": [
+            "person",
+            "table",
+            "laptop",
+            "remote"
+        ]
+    },
+    "chair": {
+        "idx": 56,
+        "related_nodes": [
+            "table",
+            "person",
+            "book",
+            "backpack"
+        ]
+    },
+    "cake": {
+        "idx": 55,
+        "related_nodes": [
+            "table",
+            "bowl",
+            "person",
+            "cup",
+            "knife",
+            "fork"
+        ]
+    },
+    "donut": {
+        "idx": 54,
+        "related_nodes": [
+            "table",
+            "bowl",
+            "cup",
+            "person",
+            "oven"
+        ]
+    },
+    "pizza": {
+        "idx": 53,
+        "related_nodes": [
+            "bowl",
+            "orange",
+            "table",
+            "person",
+            "oven",
+            "cup",
+            "fork",
+            "knife",
+            "broccoli",
+            "apple"
+        ]
+    },
+    "hotdog": {
+        "idx": 52,
+        "related_nodes": [
+            "person",
+            "bowl",
+            "table"
+        ]
+    },
+    "carrot": {
+        "idx": 51,
+        "related_nodes": [
+            "bowl",
+            "table",
+            "cup",
+            "sandwich",
+            "person"
+        ]
+    },
+    "broccoli": {
+        "idx": 50,
+        "related_nodes": [
+            "bowl",
+            "pizza",
+            "cup",
+            "table",
+            "sandwich"
+        ]
+    },
+    "orange": {
+        "idx": 49,
+        "related_nodes": [
+            "bowl",
+            "table",
+            "person",
+            "cup",
+            "apple",
+            "pizza",
+            "cake",
+            "sandwich"
+        ]
+    },
+    "sandwich": {
+        "idx": 48,
+        "related_nodes": [
+            "bowl",
+            "cup",
+            "table",
+            "banana",
+            "hotdog",
+            "person",
+            "apple",
+            "orange",
+            "broccoli",
+            "carrot"
+        ]
+    },
+    "apple": {
+        "idx": 47,
+        "related_nodes": [
+            "table",
+            "bowl",
+            "orange",
+            "person",
+            "cabinet",
+            "sandwich",
+            "banana",
+            "knife",
+            "cup"
+        ]
+    },
+    "banana": {
+        "idx": 46,
+        "related_nodes": [
+            "bowl",
+            "cup",
+            "table",
+            "sandwich",
+            "person",
+            "orange",
+            "apple",
+            "cabinet"
+        ]
+    },
+    "bowl": {
+        "idx": 45,
+        "related_nodes": [
+            "fork",
+            "table",
+            "cabinet",
+            "sink",
+            "apple",
+            "glass",
+            "knife",
+            "donut",
+            "hotdog",
+            "sandwich",
+            "banana",
+            "broccoli",
+            "person",
+            "bottle",
+            "pizza",
+            "microwave",
+            "cake",
+            "cup",
+            "refrigerator",
+            "oven",
+            "rack",
+            "carrot",
+            "orange",
+            "spoon"
+        ]
+    },
+    "spoon": {
+        "idx": 44,
+        "related_nodes": [
+            "bowl"
+        ]
+    },
+    "knife": {
+        "idx": 43,
+        "related_nodes": [
+            "table",
+            "fork",
+            "bowl",
+            "person",
+            "cake",
+            "pizza",
+            "apple",
+            "orange",
+            "banana"
+        ]
+    },
+    "fork": {
+        "idx": 42,
+        "related_nodes": [
+            "bowl",
+            "table",
+            "person",
+            "knife",
+            "cup",
+            "pizza",
+            "cake"
+        ]
+    },
+    "cup": {
+        "idx": 41,
+        "related_nodes": [
+            "table",
+            "cabinet",
+            "donut",
+            "banana",
+            "bottle",
+            "bowl",
+            "person",
+            "sink",
+            "orange",
+            "glass",
+            "cake",
+            "toothbrush",
+            "pizza",
+            "carrot",
+            "broccoli",
+            "rack"
+        ]
+    },
+    "glass": {
+        "idx": 40,
+        "related_nodes": [
+            "bottle",
+            "table",
+            "cabinet",
+            "person",
+            "bowl",
+            "cup",
+            "sink"
+        ]
+    },
+    "bottle": {
+        "idx": 39,
+        "related_nodes": [
+            "glass",
+            "table",
+            "person",
+            "cup",
+            "cabinet",
+            "rack",
+            "sink",
+            "bowl",
+            "refrigerator"
+        ]
+    },
+    "suitcase": {
+        "idx": 28,
+        "related_nodes": [
+            "person"
+        ]
+    },
+    "handbag": {
+        "idx": 26,
+        "related_nodes": [
+            "table",
+            "person",
+            "couch",
+            "cabinet",
+            "book",
+            "chair",
+            "bench"
+        ]
+    },
+    "backpack": {
+        "idx": 24,
+        "related_nodes": [
+            "person",
+            "chair",
+            "bench",
+            "table"
+        ]
+    },
+    "bench": {
+        "idx": 13,
+        "related_nodes": [
+            "person",
+            "table",
+            "backpack",
+            "plant"
+        ]
+    },
+    "person": {
+        "idx": 0,
+        "related_nodes": [
+            "backpack",
+            "table",
+            "chair",
+            "keyboard",
+            "couch",
+            "handbag",
+            "glass",
+            "fork",
+            "book",
+            "bottle",
+            "bench",
+            "plant",
+            "bowl",
+            "cabinet",
+            "cell",
+            "laptop",
+            "mouse",
+            "cup",
+            "tv",
+            "orange",
+            "remote",
+            "knife",
+            "clock",
+            "suitcase",
+            "hotdog",
+            "donut",
+            "scissors",
+            "apple",
+            "cake",
+            "pizza",
+            "vase",
+            "refrigerator",
+            "banana",
+            "sandwich",
+            "sink",
+            "toothbrush",
+            "carrot",
+            "oven"
+        ]
+    },
+    "rack": {
+        "idx": -1,
+        "related_nodes": [
+            "knife",
+            "bottle",
+            "sink",
+            "table",
+            "book",
+            "oven",
+            "toothbrush",
+            "bowl",
+            "cup",
+            "pizza",
+            "donut"
+        ]
+    },
+    "cabinet": {
+        "idx": -2,
+        "related_nodes": [
+            "table",
+            "book",
+            "cup",
+            "tv",
+            "bowl",
+            "glass",
+            "bottle",
+            "handbag",
+            "sink",
+            "microwave",
+            "plant",
+            "refrigerator",
+            "person",
+            "oven",
+            "vase",
+            "apple",
+            "banana",
+            "orange"
+        ]
+    }
+}
