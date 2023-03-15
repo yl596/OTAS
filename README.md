@@ -12,6 +12,7 @@ pip install opencv-python=4.7.0.72
 ```
 python video_info.py --dataset BF
 ```
+3. Obtain object masks using pre-trained object detection model. [Detectron](https://github.com/facebookresearch/Detectron)
 
 ### Train global perception model
 ```
