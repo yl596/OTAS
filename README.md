@@ -10,8 +10,9 @@ pip install torch_sparse
 
 ### Data preparation
 1. Download videos from [the breakfast dataset](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/).
-2. Extract frames and video info.
+3. Extract frames and video info.
 ```
+cd code
 python video_info.py --dataset BF
 ```
 3. Obtain object info using pre-trained object detection model. We provide example object info file from the platform [Detectron](https://github.com/facebookresearch/Detectron) using Faster-RCNN-X101-FPN model pre-trained on the COCO train2017 dataset. The object info file should contain object class, box and score. 
