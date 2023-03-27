@@ -1,6 +1,6 @@
 # OTAS
 Unsupervised Boundary Detection for Object-Centric Temporal Action Segmentation
-![eed264b0-2b7e-47df-ab72-ab4eef3e8de5_1](https://user-images.githubusercontent.com/67664107/227826095-e31225f6-8765-46a3-9f6d-95da3d6dc355.jpeg)
+![overall pipeline](https://user-images.githubusercontent.com/67664107/227826488-a739db85-149f-4edc-a9fd-51f681a3cd63.jpg)
 ![model](https://user-images.githubusercontent.com/67664107/227825145-e7a463e8-d3e7-4565-a3cc-c60bdd2d7a76.jpg)
 
 ### Prerequisites
