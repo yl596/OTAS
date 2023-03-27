@@ -1,6 +1,8 @@
 # OTAS
 Unsupervised Boundary Detection for Object-Centric Temporal Action Segmentation
+[overall pipeline.pdf](https://github.com/yl596/OTAS/files/11073910/overall.pipeline.pdf)
 
+[model.pdf](https://github.com/yl596/OTAS/files/11073911/model.pdf)
 ### Prerequisites
 conda create -n OTAS python=3.9
 pip install opencv-python==4.7.0.72
